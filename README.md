@@ -12,3 +12,6 @@ R data file containing *non*rarefied sequence data that has been merged with app
 
 ## goods_coverage_rare_16S.rds
 R data file containing Good's Coverage values for rarefied 16S sequence data.
+
+## tidy_taxonomy_16S.rds
+R data file containing parsed taxonomy key information for 16S OTUs. Separate columns are given for kingdom, phylum, class, order, family, and genus.
