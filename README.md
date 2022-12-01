@@ -18,5 +18,5 @@ R data file containing Good's Coverage values for rarefied 16S sequence data.
 # tidy_taxonomy_16S.rds
 R data file containing parsed taxonomy key information for 16S OTUs. Separate columns are given for kingdom, phylum, class, order, family, and genus.
 
-# shared_rare_taxon_relabund_16S.rds
+# otu_rare_relabund_16S.rds
 R data file containing rarefied OTU abundance data with associated metadata, parsed taxonomic information, and relative abundance. Refer to file "tidy_taxonomy.R" for relative abundance calculation.
