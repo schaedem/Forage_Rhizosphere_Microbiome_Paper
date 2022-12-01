@@ -9,3 +9,6 @@ R data file containing rarefied (seqs=2097) 16S species richness data for each s
 
 ## shared_full_16S_final.rds
 R data file containing *non*rarefied sequence data that has been merged with appropriate metadata.
+
+## goods_coverage_rare_16S.rds
+R data file containing Good's Coverage values for rarefied 16S sequence data.
