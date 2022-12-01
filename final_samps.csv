@@ -1,0 +1,443 @@
+sample,location,treatment,species,timepoint,block
+1R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,1,1
+2R,Rubona,Napier ,Napier,1,1
+3R,Rubona,Desmodium ,Desmodium,1,1
+4R,Rubona,Maize monocrop ,Maize,1,1
+5R,Rubona,Desmodium + maize,Desmodium,1,1
+6R,Rubona,Desmodium + maize,Maize,1,1
+7R,Rubona,Desmodium + Brachiaria ,Desmodium,1,1
+8R,Rubona,Desmodium + Brachiaria ,Brachiaria,1,1
+9R,Rubona,Napier + Desmodium,Desmodium,1,1
+10R,Rubona,Napier + Desmodium,Napier,1,1
+11R,Rubona,Desmodium + maize,Desmodium,1,2
+12R,Rubona,Desmodium + maize,Maize,1,2
+13R,Rubona,Desmodium + Brachiaria ,Desmodium,1,2
+14R,Rubona,Desmodium + Brachiaria ,Brachiaria,1,2
+15R,Rubona,Napier,Napier,1,2
+16R,Rubona,Napier + Desmodium,Desmodium,1,2
+17R,Rubona,Napier + Desmodium,Napier,1,2
+18R,Rubona,Desmodium,Desmodium,1,2
+19R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,1,2
+20R,Rubona,Maize,Maize,1,2
+21R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,1,3
+22R,Rubona,Desmodium,Desmodium,1,3
+23R,Rubona,Desmodium + maize,Desmodium,1,3
+24R,Rubona,Desmodium + maize,Maize,1,3
+25R,Rubona,Desmodium + Brachiaria,Desmodium,1,3
+26R,Rubona,Desmodium + Brachiaria,Brachiaria,1,3
+27R,Rubona,Maize monocrop,Maize,1,3
+28R,Rubona,Napier + Desmodium,Desmodium,1,3
+29R,Rubona,Napier + Desmodium,Napier,1,3
+30R,Rubona,Napier,Napier,1,3
+31R,Rubona,Desmodium + Brachiaria,Desmodium,1,4
+32R,Rubona,Desmodium + Brachiaria,Brachiaria,1,4
+33R,Rubona,Maize monocrop,Maize,1,4
+34R,Rubona,Desmodium,Desmodium,1,4
+35R,Rubona,Napier,Napier,1,4
+36R,Rubona,Napier + Desmodium,Desmodium,1,4
+37R,Rubona,Napier + Desmodium,Napier,1,4
+38R,Rubona,Brachiaria v. Mulato II ,Brachiaria,1,4
+39R,Rubona,Desmodium + maize,Desmodium,1,4
+40R,Rubona,Desmodium + maize,Maize,1,4
+41R,Karama,Brachiaria cv. Mulato II ,Brachiaria,1,1
+42R,Karama,Napier ,Napier,1,1
+43R,Karama,Desmodium ,Desmodium,1,1
+44R,Karama,Maize monocrop ,Maize,1,1
+45R,Karama,Desmodium + maize,Desmodium,1,1
+46R,Karama,Desmodium + maize,Maize,1,1
+47R,Karama,Desmodium + Brachiaria ,Desmodium,1,1
+48R,Karama,Desmodium + Brachiaria ,Brachiaria,1,1
+49R,Karama,Napier + Desmodium,Desmodium,1,1
+50R,Karama,Napier + Desmodium,Napier,1,1
+51R,Karama,Desmodium + maize,Desmodium,1,2
+52R,Karama,Desmodium + maize,Maize,1,2
+53R,Karama,Desmodium + Brachiaria ,Desmodium,1,2
+54R,Karama,Desmodium + Brachiaria ,Brachiaria,1,2
+55R,Karama,Napier,Napier,1,2
+56R,Karama,Napier + Desmodium,Desmodium,1,2
+57R,Karama,Napier + Desmodium,Napier,1,2
+58R,Karama,Desmodium,Desmodium,1,2
+59R,Karama,Brachiaria cv. Mulato II ,Brachiaria,1,2
+60R,Karama,Maize,Maize,1,2
+61R,Karama,Brachiaria cv. Mulato II ,Brachiaria,1,3
+62R,Karama,Desmodium,Desmodium,1,3
+63R,Karama,Desmodium + maize,Desmodium,1,3
+64R,Karama,Desmodium + maize,Maize,1,3
+65R,Karama,Desmodium + Brachiaria,Desmodium,1,3
+66R,Karama,Desmodium + Brachiaria,Brachiaria,1,3
+67R,Karama,Maize monocrop,Maize,1,3
+68R,Karama,Napier + Desmodium,Desmodium,1,3
+69R,Karama,Napier + Desmodium,Napier,1,3
+70R,Karama,Napier,Napier,1,3
+71R,Karama,Desmodium + Brachiaria,Desmodium,1,4
+72R,Karama,Desmodium + Brachiaria,Brachiaria,1,4
+73R,Karama,Maize monocrop,Maize,1,4
+74R,Karama,Desmodium,Desmodium,1,4
+75R,Karama,Napier,Napier,1,4
+76R,Karama,Napier + Desmodium,Desmodium,1,4
+77R,Karama,Napier + Desmodium,Napier,1,4
+78R,Karama,Brachiaria v. Mulato II ,Brachiaria,1,4
+79R,Karama,Desmodium + maize,Desmodium,1,4
+80R,Karama,Desmodium + maize,Maize,1,4
+81R,Burera,Brachiaria cv. Mulato II ,Brachiaria,1,1
+82R,Burera,Napier ,Napier,1,1
+83R,Burera,Desmodium ,Desmodium,1,1
+84R,Burera,Maize monocrop ,Maize,1,1
+85R,Burera,Desmodium + maize,Desmodium,1,1
+86R,Burera,Desmodium + maize,Maize,1,1
+87R,Burera,Desmodium + Brachiaria ,Desmodium,1,1
+88R,Burera,Desmodium + Brachiaria ,Brachiaria,1,1
+89R,Burera,Napier + Desmodium,Desmodium,1,1
+90R,Burera,Napier + Desmodium,Napier,1,1
+91R,Burera,Desmodium + maize,Desmodium,1,2
+92R,Burera,Desmodium + maize,Maize,1,2
+93R,Burera,Desmodium + Brachiaria ,Desmodium,1,2
+94R,Burera,Desmodium + Brachiaria ,Brachiaria,1,2
+95R,Burera,Napier,Napier,1,2
+96R,Burera,Napier + Desmodium,Desmodium,1,2
+97R,Burera,Napier + Desmodium,Napier,1,2
+98R,Burera,Desmodium,Desmodium,1,2
+99R,Burera,Brachiaria cv. Mulato II ,Brachiaria,1,2
+100R,Burera,Maize,Maize,1,2
+101R,Burera,Brachiaria cv. Mulato II ,Brachiaria,1,3
+102R,Burera,Desmodium,Desmodium,1,3
+103R,Burera,Desmodium + maize,Desmodium,1,3
+104R,Burera,Desmodium + maize,Maize,1,3
+105R,Burera,Desmodium + Brachiaria,Desmodium,1,3
+106R,Burera,Desmodium + Brachiaria,Brachiaria,1,3
+107R,Burera,Maize monocrop,Maize,1,3
+108R,Burera,Napier + Desmodium,Desmodium,1,3
+109R,Burera,Napier + Desmodium,Napier,1,3
+110R,Burera,Napier,Napier,1,3
+111R,Burera,Desmodium + Brachiaria,Desmodium,1,4
+112R,Burera,Desmodium + Brachiaria,Brachiaria,1,4
+113R,Burera,Maize monocrop,Maize,1,4
+114R,Burera,Desmodium,Desmodium,1,4
+115R,Burera,Napier,Napier,1,4
+116R,Burera,Napier + Desmodium,Desmodium,1,4
+117R,Burera,Napier + Desmodium,Napier,1,4
+118R,Burera,Brachiaria v. Mulato II ,Brachiaria,1,4
+119R,Burera,Desmodium + maize,Desmodium,1,4
+120R,Burera,Desmodium + maize,Maize,1,4
+201R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,2,1
+202R,Rubona,Napier ,Napier,2,1
+203R,Rubona,Desmodium ,Desmodium,2,1
+204R,Rubona,Maize monocrop ,Maize,2,1
+205R,Rubona,Desmodium + maize,Desmodium,2,1
+206R,Rubona,Desmodium + maize,Maize,2,1
+207R,Rubona,Desmodium + Brachiaria ,Desmodium,2,1
+208R,Rubona,Desmodium + Brachiaria ,Brachiaria,2,1
+209R,Rubona,Napier + Desmodium,Desmodium,2,1
+210R,Rubona,Napier + Desmodium,Napier,2,1
+211R,Rubona,Desmodium + maize,Desmodium,2,2
+212R,Rubona,Desmodium + maize,Maize,2,2
+213R,Rubona,Desmodium + Brachiaria ,Desmodium,2,2
+214R,Rubona,Desmodium + Brachiaria ,Brachiaria,2,2
+215R,Rubona,Napier,Napier,2,2
+216R,Rubona,Napier + Desmodium,Desmodium,2,2
+217R,Rubona,Napier + Desmodium,Napier,2,2
+218R,Rubona,Desmodium,Desmodium,2,2
+219R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,2,2
+220R,Rubona,Maize,Maize,2,2
+221R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,2,3
+222R,Rubona,Desmodium,Desmodium,2,3
+223R,Rubona,Desmodium + maize,Desmodium,2,3
+224R,Rubona,Desmodium + maize,Maize,2,3
+225R,Rubona,Desmodium + Brachiaria,Desmodium,2,3
+226R,Rubona,Desmodium + Brachiaria,Brachiaria,2,3
+227R,Rubona,Maize monocrop,Maize,2,3
+228R,Rubona,Napier + Desmodium,Desmodium,2,3
+229R,Rubona,Napier + Desmodium,Napier,2,3
+230R,Rubona,Napier,Napier,2,3
+231R,Rubona,Desmodium + Brachiaria,Desmodium,2,4
+232R,Rubona,Desmodium + Brachiaria,Brachiaria,2,4
+233R,Rubona,Maize monocrop,Maize,2,4
+234R,Rubona,Desmodium,Desmodium,2,4
+235R,Rubona,Napier,Napier,2,4
+236R,Rubona,Napier + Desmodium,Desmodium,2,4
+237R,Rubona,Napier + Desmodium,Napier,2,4
+238R,Rubona,Brachiaria v. Mulato II ,Brachiaria,2,4
+239R,Rubona,Desmodium + maize,Desmodium,2,4
+240R,Rubona,Desmodium + maize,Maize,2,4
+241R,Karama,Brachiaria cv. Mulato II ,Brachiaria,2,1
+242R,Karama,Napier ,Napier,2,1
+243R,Karama,Desmodium ,Desmodium,2,1
+244R,Karama,Maize monocrop ,Maize,2,1
+245R,Karama,Desmodium + maize,Desmodium,2,1
+246R,Karama,Desmodium + maize,Maize,2,1
+247R,Karama,Desmodium + Brachiaria ,Desmodium,2,1
+248R,Karama,Desmodium + Brachiaria ,Brachiaria,2,1
+249R,Karama,Napier + Desmodium,Desmodium,2,1
+250R,Karama,Napier + Desmodium,Napier,2,1
+251R,Karama,Desmodium + maize,Desmodium,2,2
+252R,Karama,Desmodium + maize,Maize,2,2
+253R,Karama,Desmodium + Brachiaria ,Desmodium,2,2
+254R,Karama,Desmodium + Brachiaria ,Brachiaria,2,2
+255R,Karama,Napier,Napier,2,2
+256R,Karama,Napier + Desmodium,Desmodium,2,2
+257R,Karama,Napier + Desmodium,Napier,2,2
+258R,Karama,Desmodium,Desmodium,2,2
+259R,Karama,Brachiaria cv. Mulato II ,Brachiaria,2,2
+260R,Karama,Maize,Maize,2,2
+261R,Karama,Brachiaria cv. Mulato II ,Brachiaria,2,3
+222R,Karama,Desmodium,Desmodium,2,3
+263R,Karama,Desmodium + maize,Desmodium,2,3
+264R,Karama,Desmodium + maize,Maize,2,3
+265R,Karama,Desmodium + Brachiaria,Desmodium,2,3
+266R,Karama,Desmodium + Brachiaria,Brachiaria,2,3
+267R,Karama,Maize monocrop,Maize,2,3
+268R,Karama,Napier + Desmodium,Desmodium,2,3
+269R,Karama,Napier + Desmodium,Napier,2,3
+270R,Karama,Napier,Napier,2,3
+271R,Karama,Desmodium + Brachiaria,Desmodium,2,4
+272R,Karama,Desmodium + Brachiaria,Brachiaria,2,4
+273R,Karama,Maize monocrop,Maize,2,4
+274R,Karama,Desmodium,Desmodium,2,4
+275R,Karama,Napier,Napier,2,4
+276R,Karama,Napier + Desmodium,Desmodium,2,4
+277R,Karama,Napier + Desmodium,Napier,2,4
+278R,Karama,Brachiaria v. Mulato II ,Brachiaria,2,4
+279R,Karama,Desmodium + maize,Desmodium,2,4
+280R,Karama,Desmodium + maize,Maize,2,4
+281R,Burera,Brachiaria cv. Mulato II ,Brachiaria,2,1
+282R,Burera,Napier ,Napier,2,1
+283R,Burera,Desmodium ,Desmodium,2,1
+284R,Burera,Maize monocrop ,Maize,2,1
+285R,Burera,Desmodium + maize,Desmodium,2,1
+286R,Burera,Desmodium + maize,Maize,2,1
+287R,Burera,Desmodium + Brachiaria ,Desmodium,2,1
+288R,Burera,Desmodium + Brachiaria ,Brachiaria,2,1
+289R,Burera,Napier + Desmodium,Desmodium,2,1
+290R,Burera,Napier + Desmodium,Napier,2,1
+291R,Burera,Desmodium + maize,Desmodium,2,2
+292R,Burera,Desmodium + maize,Maize,2,2
+293R,Burera,Desmodium + Brachiaria ,Desmodium,2,2
+294R,Burera,Desmodium + Brachiaria ,Brachiaria,2,2
+295R,Burera,Napier,Napier,2,2
+296R,Burera,Napier + Desmodium,Desmodium,2,2
+297R,Burera,Napier + Desmodium,Napier,2,2
+298R,Burera,Desmodium,Desmodium,2,2
+299R,Burera,Brachiaria cv. Mulato II ,Brachiaria,2,2
+300R,Burera,Maize,Maize,2,2
+301R,Burera,Brachiaria cv. Mulato II ,Brachiaria,2,3
+302R,Burera,Desmodium,Desmodium,2,3
+303R,Burera,Desmodium + maize,Desmodium,2,3
+304R,Burera,Desmodium + maize,Maize,2,3
+305R,Burera,Desmodium + Brachiaria,Desmodium,2,3
+306R,Burera,Desmodium + Brachiaria,Brachiaria,2,3
+307R,Burera,Maize monocrop,Maize,2,3
+308R,Burera,Napier + Desmodium,Desmodium,2,3
+309R,Burera,Napier + Desmodium,Napier,2,3
+310R,Burera,Napier,Napier,2,3
+311R,Burera,Desmodium + Brachiaria,Desmodium,2,4
+312R,Burera,Desmodium + Brachiaria,Brachiaria,2,4
+313R,Burera,Maize monocrop,Maize,2,4
+314R,Burera,Desmodium,Desmodium,2,4
+315R,Burera,Napier,Napier,2,4
+316R,Burera,Napier + Desmodium,Desmodium,2,4
+317R,Burera,Napier + Desmodium,Napier,2,4
+318R,Burera,Brachiaria v. Mulato II ,Brachiaria,2,4
+319R,Burera,Desmodium + maize,Desmodium,2,4
+320R,Burera,Desmodium + maize,Maize,2,4
+401R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,3,1
+402R,Rubona,Napier ,Napier,3,1
+403R,Rubona,Desmodium ,Desmodium,3,1
+404R,Rubona,Maize monocrop ,Maize,3,1
+405R,Rubona,Desmodium + maize,Desmodium,3,1
+406R,Rubona,Desmodium + maize,Maize,3,1
+407R,Rubona,Desmodium + Brachiaria ,Desmodium,3,1
+408R,Rubona,Desmodium + Brachiaria ,Brachiaria,3,1
+409R,Rubona,Napier + Desmodium,Desmodium,3,1
+410R,Rubona,Napier + Desmodium,Napier,3,1
+411R,Rubona,Desmodium + maize,Desmodium,3,2
+412R,Rubona,Desmodium + maize,Maize,3,2
+413R,Rubona,Desmodium + Brachiaria ,Desmodium,3,2
+414R,Rubona,Desmodium + Brachiaria ,Brachiaria,3,2
+415R,Rubona,Napier,Napier,3,2
+416R,Rubona,Napier + Desmodium,Desmodium,3,2
+417R,Rubona,Napier + Desmodium,Napier,3,2
+418R,Rubona,Desmodium,Desmodium,3,2
+419R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,3,2
+420R,Rubona,Maize,Maize,3,2
+421R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,3,3
+422R,Rubona,Desmodium,Desmodium,3,3
+423R,Rubona,Desmodium + maize,Desmodium,3,3
+424R,Rubona,Desmodium + maize,Maize,3,3
+425R,Rubona,Desmodium + Brachiaria,Desmodium,3,3
+426R,Rubona,Desmodium + Brachiaria,Brachiaria,3,3
+427R,Rubona,Maize monocrop,Maize,3,3
+428R,Rubona,Napier + Desmodium,Desmodium,3,3
+429R,Rubona,Napier + Desmodium,Napier,3,3
+430R,Rubona,Napier,Napier,3,3
+431R,Rubona,Desmodium + Brachiaria,Desmodium,3,4
+432R,Rubona,Desmodium + Brachiaria,Brachiaria,3,4
+433R,Rubona,Maize monocrop,Maize,3,4
+434R,Rubona,Desmodium,Desmodium,3,4
+435R,Rubona,Napier,Napier,3,4
+436R,Rubona,Napier + Desmodium,Desmodium,3,4
+437R,Rubona,Napier + Desmodium,Napier,3,4
+438R,Rubona,Brachiaria v. Mulato II ,Brachiaria,3,4
+439R,Rubona,Desmodium + maize,Desmodium,3,4
+440R,Rubona,Desmodium + maize,Maize,3,4
+441R,Karama,Brachiaria cv. Mulato II ,Brachiaria,3,1
+442R,Karama,Napier ,Napier,3,1
+443R,Karama,Desmodium ,Desmodium,3,1
+444R,Karama,Maize monocrop ,Maize,3,1
+445R,Karama,Desmodium + maize,Desmodium,3,1
+446R,Karama,Desmodium + maize,Maize,3,1
+447R,Karama,Desmodium + Brachiaria ,Desmodium,3,1
+448R,Karama,Desmodium + Brachiaria ,Brachiaria,3,1
+449R,Karama,,,,1
+450R,Karama,Napier + Desmodium,Napier,3,1
+451R,Karama,Desmodium + maize,Desmodium,3,2
+452R,Karama,Desmodium + maize,Maize,3,2
+453R,Karama,Desmodium + Brachiaria ,Desmodium,3,2
+454R,Karama,Desmodium + Brachiaria ,Brachiaria,3,2
+455R,Karama,Napier,Napier,3,2
+456R,Karama,Napier + Desmodium,Desmodium,3,2
+457R,Karama,Napier + Desmodium,Napier,3,2
+458R,Karama,Desmodium,Desmodium,3,2
+459R,Karama,Brachiaria cv. Mulato II ,Brachiaria,3,2
+460R,Karama,Maize,Maize,3,2
+461R,Karama,Brachiaria cv. Mulato II ,Brachiaria,3,3
+462R,Karama,Desmodium,Desmodium,3,3
+463R,Karama,Desmodium + maize,Desmodium,3,3
+464R,Karama,Desmodium + maize,Maize,3,3
+465R,Karama,Desmodium + Brachiaria,Desmodium,3,3
+466R,Karama,Desmodium + Brachiaria,Brachiaria,3,3
+467R,Karama,Maize monocrop,Maize,3,3
+468R,Karama,Napier + Desmodium,Desmodium,3,3
+469R,Karama,Napier + Desmodium,Napier,3,3
+470R,Karama,Napier,Napier,3,3
+471R,Karama,Desmodium + Brachiaria,Desmodium,3,4
+472R,Karama,Desmodium + Brachiaria,Brachiaria,3,4
+473R,Karama,Maize monocrop,Maize,3,4
+474R,Karama,Desmodium,Desmodium,3,4
+475R,Karama,Napier,Napier,3,4
+476R,Karama,Napier + Desmodium,Desmodium,3,4
+477R,Karama,Napier + Desmodium,Napier,3,4
+478R,Karama,Brachiaria v. Mulato II ,Brachiaria,3,4
+479R,Karama,Desmodium + maize,Desmodium,3,4
+480R,Karama,Desmodium + maize,Maize,3,4
+481R,Burera,Brachiaria cv. Mulato II ,Brachiaria,3,1
+482R,Burera,Napier ,Napier,3,1
+483R,Burera,Desmodium ,Desmodium,3,1
+484R,Burera,Maize monocrop ,Maize,3,1
+485R,Burera,Desmodium + maize,Desmodium,3,1
+486R,Burera,Desmodium + maize,Maize,3,1
+487R,Burera,Desmodium + Brachiaria ,Desmodium,3,1
+488R,Burera,Desmodium + Brachiaria ,Brachiaria,3,1
+489R,Burera,Napier + Desmodium,Desmodium,3,1
+490R,Burera,Napier + Desmodium,Napier,3,1
+491R,Burera,,,3,2
+492R,Burera,Desmodium + maize,Maize,3,2
+493R,Burera,Desmodium + Brachiaria ,Desmodium,3,2
+494R,Burera,Desmodium + Brachiaria ,Brachiaria,3,2
+495R,Burera,Napier,Napier,3,2
+496R,Burera,Napier + Desmodium,Desmodium,3,2
+497R,Burera,Napier + Desmodium,Napier,3,2
+498R,Burera,Desmodium,Desmodium,3,2
+499R,Burera,Brachiaria cv. Mulato II ,Brachiaria,3,2
+500R,Burera,Maize,Maize,3,2
+501R,Burera,Brachiaria cv. Mulato II ,Brachiaria,3,3
+502R,Burera,Desmodium,Desmodium,3,3
+503R,Burera,Desmodium + maize,Desmodium,3,3
+504R,Burera,Desmodium + maize,Maize,3,3
+505R,Burera,Desmodium + Brachiaria,Desmodium,3,3
+506R,Burera,Desmodium + Brachiaria,Brachiaria,3,3
+507R,Burera,Maize monocrop,Maize,3,3
+508R,Burera,Napier + Desmodium,Desmodium,3,3
+509R,Burera,Napier + Desmodium,Napier,3,3
+510R,Burera,Napier,Napier,3,3
+511R,Burera,Desmodium + Brachiaria,Desmodium,3,4
+512R,Burera,Desmodium + Brachiaria,Brachiaria,3,4
+513R,Burera,Maize monocrop,Maize,3,4
+514R,Burera,Desmodium,Desmodium,3,4
+515R,Burera,Napier,Napier,3,4
+516R,Burera,Napier + Desmodium,Desmodium,3,4
+517R,Burera,Napier + Desmodium,Napier,3,4
+518R,Burera,Brachiaria v. Mulato II ,Brachiaria,3,4
+519R,Burera,,,3,4
+520R,Burera,Desmodium + maize,Maize,3,4
+601R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,4,1
+602R,Rubona,Napier ,Napier,4,1
+603R,Rubona,Desmodium ,Desmodium,4,1
+604R,Rubona,Maize monocrop ,Maize,4,1
+605R,Rubona,Desmodium + maize,Desmodium,4,1
+606R,Rubona,Desmodium + maize,Maize,4,1
+607R,Rubona,Desmodium + Brachiaria ,Desmodium,4,1
+608R,Rubona,Desmodium + Brachiaria ,Brachiaria,4,1
+609R,Rubona,Napier + Desmodium,Desmodium,4,1
+610R,Rubona,Napier + Desmodium,Napier,4,1
+611R,Rubona,Desmodium + maize,Desmodium,4,2
+612R,Rubona,Desmodium + maize,Maize,4,2
+613R,Rubona,Desmodium + Brachiaria ,Desmodium,4,2
+614R,Rubona,Desmodium + Brachiaria ,Brachiaria,4,2
+615R,Rubona,Napier,Napier,4,2
+616R,Rubona,Napier + Desmodium,Desmodium,4,2
+617R,Rubona,Napier + Desmodium,Napier,4,2
+618R,Rubona,Desmodium,Desmodium,4,2
+619R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,4,2
+620R,Rubona,Maize,Maize,4,2
+621R,Rubona,Brachiaria cv. Mulato II ,Brachiaria,4,3
+622R2,Rubona,Desmodium,Desmodium,4,3
+622R1,Rubona,Desmodium,Desmodium,4,3
+623R,Rubona,Desmodium + maize,Desmodium,4,3
+624R,Rubona,Desmodium + maize,Maize,4,3
+625R,Rubona,Desmodium + Brachiaria,Desmodium,4,3
+626R,Rubona,Desmodium + Brachiaria,Brachiaria,4,3
+627R,Rubona,Maize monocrop,Maize,4,3
+628R,Rubona,Napier + Desmodium,Desmodium,4,3
+629R,Rubona,Napier + Desmodium,Napier,4,3
+630R,Rubona,Napier,Napier,4,3
+631R,Rubona,Desmodium + Brachiaria,Desmodium,4,4
+632R,Rubona,Desmodium + Brachiaria,Brachiaria,4,4
+633R,Rubona,Maize monocrop,Maize,4,4
+634R,Rubona,Desmodium,Desmodium,4,4
+635R,Rubona,Napier,Napier,4,4
+636R,Rubona,Napier + Desmodium,Desmodium,4,4
+637R,Rubona,Napier + Desmodium,Napier,4,4
+638R,Rubona,Brachiaria v. Mulato II ,Brachiaria,4,4
+639R,Rubona,Desmodium + maize,Desmodium,4,4
+640R,Rubona,Desmodium + maize,Maize,4,4
+641R,Karama,Brachiaria cv. Mulato II ,Brachiaria,4,1
+642R,Karama,Napier ,Napier,4,1
+643R,Karama,Desmodium ,Desmodium,4,1
+644R,Karama,Maize monocrop ,Maize,4,1
+645R,Karama,Desmodium + maize,Desmodium,4,1
+646R,Karama,Desmodium + maize,Maize,4,1
+647R,Karama,Desmodium + Brachiaria ,Desmodium,4,1
+648R,Karama,Desmodium + Brachiaria ,Brachiaria,4,1
+649R,Karama,,,,1
+650R,Karama,Napier + Desmodium,Napier,4,1
+651R,Karama,Desmodium + maize,Desmodium,4,2
+652R,Karama,Desmodium + maize,Maize,4,2
+653R,Karama,Desmodium + Brachiaria ,Desmodium,4,2
+654R,Karama,Desmodium + Brachiaria ,Brachiaria,4,2
+655R,Karama,Napier,Napier,4,2
+656R,Karama,Napier + Desmodium,Desmodium,4,2
+657R,Karama,Napier + Desmodium,Napier,4,2
+658R,Karama,Desmodium,Desmodium,4,2
+659R,Karama,Brachiaria cv. Mulato II ,Brachiaria,4,2
+660R,Karama,Maize,Maize,4,2
+661R,Karama,Brachiaria cv. Mulato II ,Brachiaria,4,3
+662R,Karama,Desmodium,Desmodium,4,3
+663R,Karama,Desmodium + maize,Desmodium,4,3
+664R,Karama,Desmodium + maize,Maize,4,3
+665R,Karama,Desmodium + Brachiaria,Desmodium,4,3
+666R,Karama,Desmodium + Brachiaria,Brachiaria,4,3
+667R,Karama,Maize monocrop,Maize,4,3
+668R,Karama,Napier + Desmodium,Desmodium,4,3
+669R,Karama,Napier + Desmodium,Napier,4,3
+670R,Karama,Napier,Napier,4,3
+671R,Karama,Desmodium + Brachiaria,Desmodium,4,4
+672R,Karama,Desmodium + Brachiaria,Brachiaria,4,4
+673R,Karama,Maize monocrop,Maize,4,4
+674R,Karama,Desmodium,Desmodium,4,4
+675R,Karama,Napier,Napier,4,4
+676R,Karama,Napier + Desmodium,Desmodium,4,4
+677R,Karama,Napier + Desmodium,Napier,4,4
+678R,Karama,Brachiaria v. Mulato II ,Brachiaria,4,4
+679R,Karama,Desmodium + maize,Desmodium,4,4
+680R,Karama,Desmodium + maize,Maize,4,4
+,,,,,
