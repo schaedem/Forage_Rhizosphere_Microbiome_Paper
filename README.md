@@ -89,10 +89,32 @@ Csv file with EA-IRMS and NIR forage quality measurements: total N, d15N, protei
 ### final_good_leg_ndfa.csv
 Nitrogen derived from the atmosphere (NDFA) calculations for _Desmodium_ biomass samples: total N, d15N, beta value (universal constant for _Desmodium_), d15N of reference treatments (maize and Napier), and NDFA.
 
+## Forage Biomass Analysis Scripts
+
+### ndfa_soil_analysis.R
+Investigate relationship between NDFA, GWC, and mineral N (Figure 1)
+
+### calc_lrr.R
+Calculate log response ratios for all biomass metrics
+
+### graph_lrr.R
+Graph biomass LRRs by location (Figure 2)
+
+### ndfa_lmer.R
+Linear mixed effects models for NDFA by location
+
+### biomass_lmer.R
+Linear mixed effects models for all biomass metrics by location
+
+
+
 ## Bulk Soil Mineral Nitrogen Data
+
+### final_minN_for_analysis.csv
 Mineral nitrogen (ammonium + nitrate) values for bulk soil samples. 
 
-### finaL_minN_for_analysis.csv
+## minN_lmers.R
+Linear mixed effects models for soil minN by location
 
 ## 16S rRNA Amplicon Sequence Data
 
