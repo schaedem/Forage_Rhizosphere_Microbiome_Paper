@@ -70,6 +70,13 @@ The goal of this project was to:
   1mm ground samples were used for NIR scanning (protein, lignin, ADF, NDF).
   Samples were additionally ball-ground with a GenoGrinder prior to microscaling for EA-IRMS analysis.
 
+## Metadata files
+
+### SiteMap.png
+Image file indicating the locations of the three forage trial locations in Rwanda
+
+### minN_metadata.csv
+Csv file containing metadata pertaining to bulk soils that were used to quantify mineral nitrogen (ammonium + nitrate). Information includes pH, gravimetric water content (gwc), moist sample weight, dry sample weight, forage treatment, location, and sampling time.
 
 ## 16S rRNA Amplicon Sequence Data
 
