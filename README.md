@@ -115,7 +115,7 @@ Mineral nitrogen (ammonium + nitrate) values for bulk soil samples.
 
 ## Bulk Soil Mineral Nitrogen Analysis Scripts
 
-## minN_lmers.R
+### minN_lmers.R
 Linear mixed effects models for soil minN by location
 
 ## 16S rRNA Amplicon Sequence Data
