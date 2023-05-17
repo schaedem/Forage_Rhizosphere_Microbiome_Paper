@@ -1,0 +1,441 @@
+sample,timepoint,species,rep,plot,treatment,location
+1L,1,Brachiaria,1,1,Brachiaria cv. Mulato II,Rubona
+2L,1,Napier,1,2,Napier grass,Rubona
+3L,1,Desmodium,1,3,Desmodium distortum,Rubona
+4L,1,Maize,1,4,Maize monocrop,Rubona
+5L,1,Desmodium,1,5,Desmodium + maize,Rubona
+6L,1,Maize,1,5,Desmodium + maize,Rubona
+7L,1,Desmodium,1,6,Desmodium + Brachiaria,Rubona
+8L,1,Brachiaria,1,6,Desmodium + Brachiaria,Rubona
+9L,1,Desmodium,1,7,Desmodium + Napier,Rubona
+10L,1,Napier,1,7,Desmodium + Napier,Rubona
+11L,1,Desmodium,2,8,Desmodium + maize,Rubona
+12L,1,Maize,2,8,Desmodium + maize,Rubona
+13L,1,Desmodium,2,9,Desmodium + Brachiaria,Rubona
+14L,1,Brachiaria,2,9,Desmodium + Brachiaria,Rubona
+15L,1,Napier,2,10,Napier grass,Rubona
+16L,1,Desmodium,2,11,Desmodium + Napier,Rubona
+17L,1,Napier,2,11,Desmodium + Napier,Rubona
+18L,1,Desmodium,2,12,Desmodium distortum,Rubona
+19L,1,Brachiaria,2,13,Brachiaria cv. Mulato II,Rubona
+20L,1,Maize,2,14,Maize monocrop,Rubona
+21L,1,Brachiaria,3,15,Brachiaria cv. Mulato II,Rubona
+22L,1,Desmodium,3,16,Desmodium distortum,Rubona
+23L,1,Desmodium,3,17,Desmodium + maize,Rubona
+24L,1,Maize,3,17,Desmodium + maize,Rubona
+25L,1,Desmodium,3,18,Desmodium + Brachiaria,Rubona
+26L,1,Brachiaria,3,18,Desmodium + Brachiaria,Rubona
+27L,1,Maize,3,19,Maize monocrop,Rubona
+28L,1,Desmodium,3,20,Desmodium + Napier,Rubona
+29L,1,Napier,3,20,Desmodium + Napier,Rubona
+30L,1,Napier,3,21,Napier grass,Rubona
+31L,1,Desmodium,4,22,Desmodium + Brachiaria,Rubona
+32L,1,Brachiaria,4,22,Desmodium + Brachiaria,Rubona
+33L,1,Maize,4,23,Maize monocrop,Rubona
+34L,1,Desmodium,4,24,Desmodium distortum,Rubona
+35L,1,Napier,4,25,Napier grass,Rubona
+36L,1,Desmodium,4,26,Desmodium + Napier,Rubona
+37L,1,Napier,4,26,Desmodium + Napier,Rubona
+38L,1,Brachiaria,4,27,Brachiaria cv. Mulato II,Rubona
+39L,1,Desmodium,4,28,Desmodium + maize,Rubona
+40L,1,Maize,4,28,Desmodium + maize,Rubona
+41L,1,Brachiaria,1,1,Brachiaria cv. Mulato II,Karama
+42L,1,Napier,1,2,Napier grass,Karama
+43L,1,Desmodium,1,3,Desmodium distortum,Karama
+44L,1,Maize,1,4,Maize monocrop,Karama
+45L,1,Desmodium,1,5,Desmodium + maize,Karama
+46L,1,Maize,1,5,Desmodium + maize,Karama
+47L,1,Desmodium,1,6,Desmodium + Brachiaria,Karama
+48L,1,Brachiaria,1,6,Desmodium + Brachiaria,Karama
+49L,1,Desmodium,1,7,Desmodium + Napier,Karama
+50L,1,Napier,1,7,Desmodium + Napier,Karama
+51L,1,Desmodium,2,8,Desmodium + maize,Karama
+52L,1,Maize,2,8,Desmodium + maize,Karama
+53L,1,Desmodium,2,9,Desmodium + Brachiaria,Karama
+54L,1,Brachiaria,2,9,Desmodium + Brachiaria,Karama
+55L,1,Napier,2,10,Napier grass,Karama
+56L,1,Desmodium,2,11,Desmodium + Napier,Karama
+57L,1,Napier,2,11,Desmodium + Napier,Karama
+58L,1,Desmodium,2,12,Desmodium distortum,Karama
+59L,1,Brachiaria,2,13,Brachiaria cv. Mulato II,Karama
+60L,1,Maize,2,14,Maize monocrop,Karama
+61L,1,Brachiaria,3,15,Brachiaria cv. Mulato II,Karama
+62L,1,Desmodium,3,16,Desmodium distortum,Karama
+63L,1,Desmodium,3,17,Desmodium + maize,Karama
+64L,1,Maize,3,17,Desmodium + maize,Karama
+65L,1,Desmodium,3,18,Desmodium + Brachiaria,Karama
+66L,1,Brachiaria,3,18,Desmodium + Brachiaria,Karama
+67L,1,Maize,3,19,Maize monocrop,Karama
+68L,1,Desmodium,3,20,Desmodium + Napier,Karama
+69L,1,Napier,3,20,Desmodium + Napier,Karama
+70L,1,Napier,3,21,Napier grass,Karama
+71L,1,Desmodium,4,22,Desmodium + Brachiaria,Karama
+72L,1,Brachiaria,4,22,Desmodium + Brachiaria,Karama
+73L,1,Maize,4,23,Maize monocrop,Karama
+74L,1,Desmodium,4,24,Desmodium distortum,Karama
+75L,1,Napier,4,25,Napier grass,Karama
+76L,1,Desmodium,4,26,Desmodium + Napier,Karama
+77L,1,Napier,4,26,Desmodium + Napier,Karama
+78L,1,Brachiaria,4,27,Brachiaria cv. Mulato II,Karama
+79L,1,Desmodium,4,28,Desmodium + maize,Karama
+80L,1,Maize,4,28,Desmodium + maize,Karama
+81L,1,Brachiaria,1,1,Brachiaria cv. Mulato II,Burera
+82L,1,Napier,1,2,Napier grass,Burera
+83L,1,Desmodium,1,3,Desmodium intortum,Burera
+84L,1,Maize,1,4,Maize monocrop,Burera
+85L,1,Desmodium,1,5,Desmodium + maize,Burera
+86L,1,Maize,1,5,Desmodium + maize,Burera
+87L,1,Desmodium,1,6,Desmodium + Brachiaria,Burera
+88L,1,Brachiaria,1,6,Desmodium + Brachiaria,Burera
+89L,1,Desmodium,1,7,Desmodium + Napier,Burera
+90L,1,Napier,1,7,Desmodium + Napier,Burera
+91L,1,Desmodium,2,8,Desmodium + maize,Burera
+92L,1,Maize,2,8,Desmodium + maize,Burera
+93L,1,Desmodium,2,9,Desmodium + Brachiaria,Burera
+94L,1,Brachiaria,2,9,Desmodium + Brachiaria,Burera
+95L,1,Napier,2,10,Napier grass,Burera
+96L,1,Desmodium,2,11,Desmodium + Napier,Burera
+97L,1,Napier,2,11,Desmodium + Napier,Burera
+98L,1,Desmodium,2,12,Desmodium intortum,Burera
+99L,1,Brachiaria,2,13,Brachiaria cv. Mulato II,Burera
+100L,1,Maize,2,14,Maize monocrop,Burera
+101L,1,Brachiaria,3,15,Brachiaria cv. Mulato II,Burera
+102L,1,Desmodium,3,16,Desmodium intortum,Burera
+103L,1,Desmodium,3,17,Desmodium + maize,Burera
+104L,1,Maize,3,17,Desmodium + maize,Burera
+105L,1,Desmodium,3,18,Desmodium + Brachiaria,Burera
+106L,1,Brachiaria,3,18,Desmodium + Brachiaria,Burera
+107L,1,Maize,3,19,Maize monocrop,Burera
+108L,1,Desmodium,3,20,Desmodium + Napier,Burera
+109L,1,Napier,3,20,Desmodium + Napier,Burera
+110L,1,Napier,3,21,Napier grass,Burera
+111L,1,Desmodium,4,22,Desmodium + Brachiaria,Burera
+112L,1,Brachiaria,4,22,Desmodium + Brachiaria,Burera
+113L,1,Maize,4,23,Maize monocrop,Burera
+114L,1,Desmodium,4,24,Desmodium intortum,Burera
+115L,1,Napier,4,25,Napier grass,Burera
+116L,1,Desmodium,4,26,Desmodium + Napier,Burera
+117L,1,Napier,4,26,Desmodium + Napier,Burera
+118L,1,Brachiaria,4,27,Brachiaria cv. Mulato II,Burera
+119L,1,Desmodium,4,28,Desmodium + maize,Burera
+120L,1,Maize,4,28,Desmodium + maize,Burera
+201L,2,Brachiaria,1,1,Brachiaria cv. Mulato II,Rubona
+202L,2,Napier,1,2,Napier grass,Rubona
+203L,2,Desmodium,1,3,Desmodium distortum,Rubona
+204L,2,Maize,1,4,Maize monocrop,Rubona
+205L,2,Desmodium,1,5,Desmodium + maize,Rubona
+206L,2,Maize,1,5,Desmodium + maize,Rubona
+207L,2,Desmodium,1,6,Desmodium + Brachiaria,Rubona
+208L,2,Brachiaria,1,6,Desmodium + Brachiaria,Rubona
+209L,2,Desmodium,1,7,Desmodium + Napier,Rubona
+210L,2,Napier,1,7,Desmodium + Napier,Rubona
+211L,2,Desmodium,2,8,Desmodium + maize,Rubona
+212L,2,Maize,2,8,Desmodium + maize,Rubona
+213L,2,Desmodium,2,9,Desmodium + Brachiaria,Rubona
+214L,2,Brachiaria,2,9,Desmodium + Brachiaria,Rubona
+215L,2,Napier,2,10,Napier grass,Rubona
+216L,2,Desmodium,2,11,Desmodium + Napier,Rubona
+217L,2,Napier,2,11,Desmodium + Napier,Rubona
+218L,2,Desmodium,2,12,Desmodium distortum,Rubona
+219L,2,Brachiaria,2,13,Brachiaria cv. Mulato II,Rubona
+220L,2,Maize,2,14,Maize monocrop,Rubona
+221L,2,Brachiaria,3,15,Brachiaria cv. Mulato II,Rubona
+222L,2,Desmodium,3,16,Desmodium distortum,Rubona
+223L,2,Desmodium,3,17,Desmodium + maize,Rubona
+224L,2,Maize,3,17,Desmodium + maize,Rubona
+225L,2,Desmodium,3,18,Desmodium + Brachiaria,Rubona
+226L,2,Brachiaria,3,18,Desmodium + Brachiaria,Rubona
+227L,2,Maize,3,19,Maize monocrop,Rubona
+228L,2,Desmodium,3,20,Desmodium + Napier,Rubona
+229L,2,Napier,3,20,Desmodium + Napier,Rubona
+230L,2,Napier,3,21,Napier grass,Rubona
+231L,2,Desmodium,4,22,Desmodium + Brachiaria,Rubona
+232L,2,Brachiaria,4,22,Desmodium + Brachiaria,Rubona
+233L,2,Maize,4,23,Maize monocrop,Rubona
+234L,2,Desmodium,4,24,Desmodium distortum,Rubona
+235L,2,Napier,4,25,Napier grass,Rubona
+236L,2,Desmodium,4,26,Desmodium + Napier,Rubona
+237L,2,Napier,4,26,Desmodium + Napier,Rubona
+238L,2,Brachiaria,4,27,Brachiaria cv. Mulato II,Rubona
+239L,2,Desmodium,4,28,Desmodium + maize,Rubona
+240L,2,Maize,4,28,Desmodium + maize,Rubona
+241L,2,Brachiaria,1,1,Brachiaria cv. Mulato II,Karama
+242L,2,Napier,1,2,Napier grass,Karama
+243L,2,Desmodium,1,3,Desmodium distortum,Karama
+244L,2,Maize,1,4,Maize monocrop,Karama
+245L,2,Desmodium,1,5,Desmodium + maize,Karama
+246L,2,Maize,1,5,Desmodium + maize,Karama
+247L,2,Desmodium,1,6,Desmodium + Brachiaria,Karama
+248L,2,Brachiaria,1,6,Desmodium + Brachiaria,Karama
+249L,2,Desmodium,1,7,Desmodium + Napier,Karama
+250L,2,Napier,1,7,Desmodium + Napier,Karama
+251L,2,Desmodium,2,8,Desmodium + maize,Karama
+252L,2,Maize,2,8,Desmodium + maize,Karama
+253L,2,Desmodium,2,9,Desmodium + Brachiaria,Karama
+254L,2,Brachiaria,2,9,Desmodium + Brachiaria,Karama
+255L,2,Napier,2,10,Napier grass,Karama
+256L,2,Desmodium,2,11,Desmodium + Napier,Karama
+257L,2,Napier,2,11,Desmodium + Napier,Karama
+258L,2,Desmodium,2,12,Desmodium distortum,Karama
+259L,2,Brachiaria,2,13,Brachiaria cv. Mulato II,Karama
+260L,2,Maize,2,14,Maize monocrop,Karama
+261L,2,Brachiaria,3,15,Brachiaria cv. Mulato II,Karama
+262L,2,Desmodium,3,16,Desmodium distortum,Karama
+263L,2,Desmodium,3,17,Desmodium + maize,Karama
+264L,2,Maize,3,17,Desmodium + maize,Karama
+265L,2,Desmodium,3,18,Desmodium + Brachiaria,Karama
+266L,2,Brachiaria,3,18,Desmodium + Brachiaria,Karama
+267L,2,Maize,3,19,Maize monocrop,Karama
+268L,2,Desmodium,3,20,Desmodium + Napier,Karama
+269L,2,Napier,3,20,Desmodium + Napier,Karama
+270L,2,Napier,3,21,Napier grass,Karama
+271L,2,Desmodium,4,22,Desmodium + Brachiaria,Karama
+272L,2,Brachiaria,4,22,Desmodium + Brachiaria,Karama
+273L,2,Maize,4,23,Maize monocrop,Karama
+274L,2,Desmodium,4,24,Desmodium distortum,Karama
+275L,2,Napier,4,25,Napier grass,Karama
+276L,2,Desmodium,4,26,Desmodium + Napier,Karama
+277L,2,Napier,4,26,Desmodium + Napier,Karama
+278L,2,Brachiaria,4,27,Brachiaria cv. Mulato II,Karama
+279L,2,Desmodium,4,28,Desmodium + maize,Karama
+280L,2,Maize,4,28,Desmodium + maize,Karama
+281L,2,Brachiaria,1,1,Brachiaria cv. Mulato II,Burera
+282L,2,Napier,1,2,Napier grass,Burera
+283L,2,Desmodium,1,3,Desmodium intortum,Burera
+284L,2,Maize,1,4,Maize monocrop,Burera
+285L,2,Desmodium,1,5,Desmodium + maize,Burera
+286L,2,Maize,1,5,Desmodium + maize,Burera
+287L,2,Desmodium,1,6,Desmodium + Brachiaria,Burera
+288L,2,Brachiaria,1,6,Desmodium + Brachiaria,Burera
+289L,2,Desmodium,1,7,Desmodium + Napier,Burera
+290L,2,Napier,1,7,Desmodium + Napier,Burera
+291L,2,Desmodium,2,8,Desmodium + maize,Burera
+292L,2,Maize,2,8,Desmodium + maize,Burera
+293L,2,Desmodium,2,9,Desmodium + Brachiaria,Burera
+294L,2,Brachiaria,2,9,Desmodium + Brachiaria,Burera
+295L,2,Napier,2,10,Napier grass,Burera
+296L,2,Desmodium,2,11,Desmodium + Napier,Burera
+297L,2,Napier,2,11,Desmodium + Napier,Burera
+298L,2,Desmodium,2,12,Desmodium intortum,Burera
+299L,2,Brachiaria,2,13,Brachiaria cv. Mulato II,Burera
+300L,2,Maize,2,14,Maize monocrop,Burera
+301L,2,Brachiaria,3,15,Brachiaria cv. Mulato II,Burera
+302L,2,Desmodium,3,16,Desmodium intortum,Burera
+303L,2,Desmodium,3,17,Desmodium + maize,Burera
+304L,2,Maize,3,17,Desmodium + maize,Burera
+305L,2,Desmodium,3,18,Desmodium + Brachiaria,Burera
+306L,2,Brachiaria,3,18,Desmodium + Brachiaria,Burera
+307L,2,Maize,3,19,Maize monocrop,Burera
+308L,2,Desmodium,3,20,Desmodium + Napier,Burera
+309L,2,Napier,3,20,Desmodium + Napier,Burera
+310L,2,Napier,3,21,Napier grass,Burera
+311L,2,Desmodium,4,22,Desmodium + Brachiaria,Burera
+312L,2,Brachiaria,4,22,Desmodium + Brachiaria,Burera
+313L,2,Maize,4,23,Maize monocrop,Burera
+314L,2,Desmodium,4,24,Desmodium intortum,Burera
+315L,2,Napier,4,25,Napier grass,Burera
+316L,2,Desmodium,4,26,Desmodium + Napier,Burera
+317L,2,Napier,4,26,Desmodium + Napier,Burera
+318L,2,Brachiaria,4,27,Brachiaria cv. Mulato II,Burera
+319L,2,Desmodium,4,28,Desmodium + maize,Burera
+320L,2,Maize,4,28,Desmodium + maize,Burera
+401L,3,Brachiaria,1,1,Brachiaria cv. Mulato II,Rubona
+402L,3,Napier,1,2,Napier grass,Rubona
+403L,3,Desmodium,1,3,Desmodium distortum,Rubona
+404L,3,Maize,1,4,Maize monocrop,Rubona
+405L,3,Desmodium,1,5,Desmodium + maize,Rubona
+406L,3,Maize,1,5,Desmodium + maize,Rubona
+407L,3,Desmodium,1,6,Desmodium + Brachiaria,Rubona
+408L,3,Brachiaria,1,6,Desmodium + Brachiaria,Rubona
+409L,3,Desmodium,1,7,Desmodium + Napier,Rubona
+410L,3,Napier,1,7,Desmodium + Napier,Rubona
+411L,3,Desmodium,2,8,Desmodium + maize,Rubona
+412L,3,Maize,2,8,Desmodium + maize,Rubona
+413L,3,Desmodium,2,9,Desmodium + Brachiaria,Rubona
+414L,3,Brachiaria,2,9,Desmodium + Brachiaria,Rubona
+415L,3,Napier,2,10,Napier grass,Rubona
+416L,3,Desmodium,2,11,Desmodium + Napier,Rubona
+417L,3,Napier,2,11,Desmodium + Napier,Rubona
+418L,3,Desmodium,2,12,Desmodium distortum,Rubona
+419L,3,Brachiaria,2,13,Brachiaria cv. Mulato II,Rubona
+420L,3,Maize,2,14,Maize monocrop,Rubona
+421L,3,Brachiaria,3,15,Brachiaria cv. Mulato II,Rubona
+422L,3,Desmodium,3,16,Desmodium distortum,Rubona
+423L,3,Desmodium,3,17,Desmodium + maize,Rubona
+424L,3,Maize,3,17,Desmodium + maize,Rubona
+425L,3,Desmodium,3,18,Desmodium + Brachiaria,Rubona
+426L,3,Brachiaria,3,18,Desmodium + Brachiaria,Rubona
+427L,3,Maize,3,19,Maize monocrop,Rubona
+428L,3,Desmodium,3,20,Desmodium + Napier,Rubona
+429L,3,Napier,3,20,Desmodium + Napier,Rubona
+430L,3,Napier,3,21,Napier grass,Rubona
+431L,3,Desmodium,4,22,Desmodium + Brachiaria,Rubona
+432L,3,Brachiaria,4,22,Desmodium + Brachiaria,Rubona
+433L,3,Maize,4,23,Maize monocrop,Rubona
+434L,3,Desmodium,4,24,Desmodium distortum,Rubona
+435L,3,Napier,4,25,Napier grass,Rubona
+436L,3,Desmodium,4,26,Desmodium + Napier,Rubona
+437L,3,Napier,4,26,Desmodium + Napier,Rubona
+438L,3,Brachiaria,4,27,Brachiaria cv. Mulato II,Rubona
+439L,3,Desmodium,4,28,Desmodium + maize,Rubona
+440L,3,Maize,4,28,Desmodium + maize,Rubona
+441L,3,Brachiaria,1,1,Brachiaria cv. Mulato II,Karama
+442L,3,Napier,1,2,Napier grass,Karama
+443L,3,Desmodium,1,3,Desmodium distortum,Karama
+444L,3,Maize,1,4,Maize monocrop,Karama
+445L,3,Desmodium,1,5,Desmodium + maize,Karama
+446L,3,Maize,1,5,Desmodium + maize,Karama
+447L,3,Desmodium,1,6,Desmodium + Brachiaria,Karama
+448L,3,Brachiaria,1,6,Desmodium + Brachiaria,Karama
+449L,3,Desmodium,1,7,Desmodium + Napier,Karama
+450L,3,Napier,1,7,Desmodium + Napier,Karama
+451L,3,Desmodium,2,8,Desmodium + maize,Karama
+452L,3,Maize,2,8,Desmodium + maize,Karama
+453L,3,Desmodium,2,9,Desmodium + Brachiaria,Karama
+454L,3,Brachiaria,2,9,Desmodium + Brachiaria,Karama
+455L,3,Napier,2,10,Napier grass,Karama
+456L,3,Desmodium,2,11,Desmodium + Napier,Karama
+457L,3,Napier,2,11,Desmodium + Napier,Karama
+458L,3,Desmodium,2,12,Desmodium distortum,Karama
+459L,3,Brachiaria,2,13,Brachiaria cv. Mulato II,Karama
+460L,3,Maize,2,14,Maize monocrop,Karama
+461L,3,Brachiaria,3,15,Brachiaria cv. Mulato II,Karama
+462L,3,Desmodium,3,16,Desmodium distortum,Karama
+463L,3,Desmodium,3,17,Desmodium + maize,Karama
+464L,3,Maize,3,17,Desmodium + maize,Karama
+465L,3,Desmodium,3,18,Desmodium + Brachiaria,Karama
+466L,3,Brachiaria,3,18,Desmodium + Brachiaria,Karama
+467L,3,Maize,3,19,Maize monocrop,Karama
+468L,3,Desmodium,3,20,Desmodium + Napier,Karama
+469L,3,Napier,3,20,Desmodium + Napier,Karama
+470L,3,Napier,3,21,Napier grass,Karama
+471L,3,Desmodium,4,22,Desmodium + Brachiaria,Karama
+472L,3,Brachiaria,4,22,Desmodium + Brachiaria,Karama
+473L,3,Maize,4,23,Maize monocrop,Karama
+474L,3,Desmodium,4,24,Desmodium distortum,Karama
+475L,3,Napier,4,25,Napier grass,Karama
+476L,3,Desmodium,4,26,Desmodium + Napier,Karama
+477L,3,Napier,4,26,Desmodium + Napier,Karama
+478L,3,Brachiaria,4,27,Brachiaria cv. Mulato II,Karama
+479L,3,Desmodium,4,28,Desmodium + maize,Karama
+480L,3,Maize,4,28,Desmodium + maize,Karama
+481L,3,Brachiaria,1,1,Brachiaria cv. Mulato II,Burera
+482L,3,Napier,1,2,Napier grass,Burera
+483L,3,Desmodium,1,3,Desmodium intortum,Burera
+484L,3,Maize,1,4,Maize monocrop,Burera
+485L,3,Desmodium,1,5,Desmodium + maize,Burera
+486L,3,Maize,1,5,Desmodium + maize,Burera
+487L,3,Desmodium,1,6,Desmodium + Brachiaria,Burera
+488L,3,Brachiaria,1,6,Desmodium + Brachiaria,Burera
+489L,3,Desmodium,1,7,Desmodium + Napier,Burera
+490L,3,Napier,1,7,Desmodium + Napier,Burera
+491L,3,Desmodium,2,8,Desmodium + maize,Burera
+492L,3,Maize,2,8,Desmodium + maize,Burera
+493L,3,Desmodium,2,9,Desmodium + Brachiaria,Burera
+494L,3,Brachiaria,2,9,Desmodium + Brachiaria,Burera
+495L,3,Napier,2,10,Napier grass,Burera
+496L,3,Desmodium,2,11,Desmodium + Napier,Burera
+497L,3,Napier,2,11,Desmodium + Napier,Burera
+498L,3,Desmodium,2,12,Desmodium intortum,Burera
+499L,3,Brachiaria,2,13,Brachiaria cv. Mulato II,Burera
+500L,3,Maize,2,14,Maize monocrop,Burera
+501L,3,Brachiaria,3,15,Brachiaria cv. Mulato II,Burera
+502L,3,Desmodium,3,16,Desmodium intortum,Burera
+503L,3,Desmodium,3,17,Desmodium + maize,Burera
+504L,3,Maize,3,17,Desmodium + maize,Burera
+505L,3,Desmodium,3,18,Desmodium + Brachiaria,Burera
+506L,3,Brachiaria,3,18,Desmodium + Brachiaria,Burera
+507L,3,Maize,3,19,Maize monocrop,Burera
+508L,3,Desmodium,3,20,Desmodium + Napier,Burera
+509L,3,Napier,3,20,Desmodium + Napier,Burera
+510L,3,Napier,3,21,Napier grass,Burera
+511L,3,Desmodium,4,22,Desmodium + Brachiaria,Burera
+512L,3,Brachiaria,4,22,Desmodium + Brachiaria,Burera
+513L,3,Maize,4,23,Maize monocrop,Burera
+514L,3,Desmodium,4,24,Desmodium intortum,Burera
+515L,3,Napier,4,25,Napier grass,Burera
+516L,3,Desmodium,4,26,Desmodium + Napier,Burera
+517L,3,Napier,4,26,Desmodium + Napier,Burera
+518L,3,Brachiaria,4,27,Brachiaria cv. Mulato II,Burera
+519L,3,Desmodium,4,28,Desmodium + maize,Burera
+520L,3,Maize,4,28,Desmodium + maize,Burera
+601L,4,Brachiaria,1,1,Brachiaria cv. Mulato II,Rubona
+602L,4,Napier,1,2,Napier grass,Rubona
+603L,4,Desmodium,1,3,Desmodium distortum,Rubona
+604L,4,Maize,1,4,Maize monocrop,Rubona
+605L,4,Desmodium,1,5,Desmodium + maize,Rubona
+606L,4,Maize,1,5,Desmodium + maize,Rubona
+607L,4,Desmodium,1,6,Desmodium + Brachiaria,Rubona
+608L,4,Brachiaria,1,6,Desmodium + Brachiaria,Rubona
+609L,4,Desmodium,1,7,Desmodium + Napier,Rubona
+610L,4,Napier,1,7,Desmodium + Napier,Rubona
+611L,4,Desmodium,2,8,Desmodium + maize,Rubona
+612L,4,Maize,2,8,Desmodium + maize,Rubona
+613L,4,Desmodium,2,9,Desmodium + Brachiaria,Rubona
+614L,4,Brachiaria,2,9,Desmodium + Brachiaria,Rubona
+615L,4,Napier,2,10,Napier grass,Rubona
+616L,4,Desmodium,2,11,Desmodium + Napier,Rubona
+617L,4,Napier,2,11,Desmodium + Napier,Rubona
+618L,4,Desmodium,2,12,Desmodium distortum,Rubona
+619L,4,Brachiaria,2,13,Brachiaria cv. Mulato II,Rubona
+620L,4,Maize,2,14,Maize monocrop,Rubona
+621L,4,Brachiaria,3,15,Brachiaria cv. Mulato II,Rubona
+622L,4,Desmodium,3,16,Desmodium distortum,Rubona
+623L,4,Desmodium,3,17,Desmodium + maize,Rubona
+624L,4,Maize,3,17,Desmodium + maize,Rubona
+625L,4,Desmodium,3,18,Desmodium + Brachiaria,Rubona
+626L,4,Brachiaria,3,18,Desmodium + Brachiaria,Rubona
+627L,4,Maize,3,19,Maize monocrop,Rubona
+628L,4,Desmodium,3,20,Desmodium + Napier,Rubona
+629L,4,Napier,3,20,Desmodium + Napier,Rubona
+630L,4,Napier,3,21,Napier grass,Rubona
+631L,4,Desmodium,4,22,Desmodium + Brachiaria,Rubona
+632L,4,Brachiaria,4,22,Desmodium + Brachiaria,Rubona
+633L,4,Maize,4,23,Maize monocrop,Rubona
+634L,4,Desmodium,4,24,Desmodium distortum,Rubona
+635L,4,Napier,4,25,Napier grass,Rubona
+636L,4,Desmodium,4,26,Desmodium + Napier,Rubona
+637L,4,Napier,4,26,Desmodium + Napier,Rubona
+638L,4,Brachiaria,4,27,Brachiaria cv. Mulato II,Rubona
+639L,4,Desmodium,4,28,Desmodium + maize,Rubona
+640L,4,Maize,4,28,Desmodium + maize,Rubona
+641L,4,Brachiaria,1,1,Brachiaria cv. Mulato II,Karama
+642L,4,Napier,1,2,Napier grass,Karama
+643L,4,Desmodium,1,3,Desmodium distortum,Karama
+644L,4,Maize,1,4,Maize monocrop,Karama
+645L,4,Desmodium,1,5,Desmodium + maize,Karama
+646L,4,Maize,1,5,Desmodium + maize,Karama
+647L,4,Desmodium,1,6,Desmodium + Brachiaria,Karama
+648L,4,Brachiaria,1,6,Desmodium + Brachiaria,Karama
+649L,4,Desmodium,1,7,Desmodium + Napier,Karama
+650L,4,Napier,1,7,Desmodium + Napier,Karama
+651L,4,Desmodium,2,8,Desmodium + maize,Karama
+652L,4,Maize,2,8,Desmodium + maize,Karama
+653L,4,Desmodium,2,9,Desmodium + Brachiaria,Karama
+654L,4,Brachiaria,2,9,Desmodium + Brachiaria,Karama
+655L,4,Napier,2,10,Napier grass,Karama
+656L,4,Desmodium,2,11,Desmodium + Napier,Karama
+657L,4,Napier,2,11,Desmodium + Napier,Karama
+658L,4,Desmodium,2,12,Desmodium distortum,Karama
+659L,4,Brachiaria,2,13,Brachiaria cv. Mulato II,Karama
+660L,4,Maize,2,14,Maize monocrop,Karama
+661L,4,Brachiaria,3,15,Brachiaria cv. Mulato II,Karama
+662L,4,Desmodium,3,16,Desmodium distortum,Karama
+663L,4,Desmodium,3,17,Desmodium + maize,Karama
+664L,4,Maize,3,17,Desmodium + maize,Karama
+665L,4,Desmodium,3,18,Desmodium + Brachiaria,Karama
+666L,4,Brachiaria,3,18,Desmodium + Brachiaria,Karama
+667L,4,Maize,3,19,Maize monocrop,Karama
+668L,4,Desmodium,3,20,Desmodium + Napier,Karama
+669L,4,Napier,3,20,Desmodium + Napier,Karama
+670L,4,Napier,3,21,Napier grass,Karama
+671L,4,Desmodium,4,22,Desmodium + Brachiaria,Karama
+672L,4,Brachiaria,4,22,Desmodium + Brachiaria,Karama
+673L,4,Maize,4,23,Maize monocrop,Karama
+674L,4,Desmodium,4,24,Desmodium distortum,Karama
+675L,4,Napier,4,25,Napier grass,Karama
+676L,4,Desmodium,4,26,Desmodium + Napier,Karama
+677L,4,Napier,4,26,Desmodium + Napier,Karama
+678L,4,Brachiaria,4,27,Brachiaria cv. Mulato II,Karama
+679L,4,Desmodium,4,28,Desmodium + maize,Karama
+680L,4,Maize,4,28,Desmodium + maize,Karama
