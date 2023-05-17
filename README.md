@@ -7,7 +7,7 @@ The goal of this project was to:
   3. Do intercropping-driven changes to community composition have implications for forage nutrive quality?
 
 
-  The data contained in <04_Station_BNF> folder derives from soil (bulk and rhizosphere) and plant leaf tissue sampling
+  The data contained in this repository derives from soil (bulk and rhizosphere) and plant leaf tissue sampling
   from replicated trials in Rwanda (Nyagatare (Karama research station), Nyanza (Rubona research station), Burera (Rwerere Research Station)).
 
   Field trials in *Rubona and Nyagatare/Karama* were sampled for a total of 4 timepoints
@@ -69,7 +69,6 @@ The goal of this project was to:
   Upon arrival at the UMN, forage biomass was further dried for 12 hours at 90C prior to 1mm grinding with a Foss Biomass Grinder.
   1mm ground samples were used for NIR scanning (protein, lignin, ADF, NDF).
   Samples were additionally ball-ground with a GenoGrinder prior to microscaling for EA-IRMS analysis.
-
 
 
 ## 16S rRNA Amplicon Sequence Data
