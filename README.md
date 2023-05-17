@@ -113,7 +113,7 @@ Linear mixed effects models for all biomass metrics by location
 ### final_minN_for_analysis.csv
 Mineral nitrogen (ammonium + nitrate) values for bulk soil samples. 
 
-## Bulk Soil Mineral Nitrogen Scripts
+## Bulk Soil Mineral Nitrogen Analysis Scripts
 
 ## minN_lmers.R
 Linear mixed effects models for soil minN by location
@@ -141,22 +141,31 @@ R data file containing relative abundance data from rarefied OTU dataset. 16S OT
 ## 16S Analysis Scripts
 
 ### beta_div_analysis_16S.R
+Calculate Bray-Curtis distances between monocropped and intercropped treatments and test for significant differences (Figure 3)
 
 ### ind_species_analysis_16S.R
+Run indicator species analysis in vegan (Figure 5)
 
 ### ind_species_prep_16S.R
+Tidy and reformat 16S dataset for indicator species analysis
 
 ### 16S_indspec_bubble_charts.R
+Graph 16S indicator OTUs by time with bubble charts (used in Figure 7)
 
 ### 16S_indspec_correlations.R
+Identify significant correlations between 16S indicator OTU abundance and forage quality data (used in Figure 7)
 
 ### mantel_test_16S.R
+Run mantel test to determine relationship between 16S community structure and biomass properties
 
 ### n_fix_testing.R
+Test for significant differences in the relative abundance of N-fixing genera between intercropped and monocropped rhizospheres
+
+### ordinator_16S.R
+Constrained weighted ordination for 16S data using log-ratio analysis
 
 
-
-## ITS2 rRNA Amplicon Sequence Data
+## ITS2 Amplicon Sequence Data
 
 ### final_shared_rare_ITS2.rds
 R data file containing rarefied (seqs=1923) ITS2 data that has been merged with appropriate metadata (location, treatment, species, timepoint, block). This is the rarefied data that has been used for all downstream analyses and diversity measures.
@@ -182,19 +191,27 @@ FunGuild classification results for all ITS2 OTUs
 ## ITS2 Analysis Scripts
 
 ### amf_symb_abund_testing.R
+Test for significant differences in the relative abundance of arbuscular mycorrhizal fungi, symbiotrophic fungi, and white rot fungi between intercropped and monocropped rhizospheres
 
 ### beta_div_analysis_its2.R
+Calculate Bray-Curtis distances between monocropped and intercropped treatments and test for significant differences (Figure 4)
 
 ### ind_species_analysis_its2.R
+Run indicator species analysis in vegan (Figure 6)
 
-### ind_speices_prep_its2.R
+### ind_species_prep_its2.R
+Tidy and reformat ITS2 dataset for indicator species analysis
 
 ### its2_indspec_bubble_charts.R
+Graph ITS2 indicator OTUs by time with bubble charts (used in Figure 8)
 
 ### its2_indspec_correlations.R
+Identify significant correlations between ITS2 indicator OTU abundance and forage quality data (used in Figure 7)
 
 ### mantel_test_its2.R
+Run mantel test to determine relationship between ITS2 community structure and biomass properties
 
 ### ordinator_ITS2.R
+Constrained weighted ordination for ITS2 data using log-ratio analysis
 
 
