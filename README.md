@@ -83,7 +83,16 @@ Csv file containing metadata pertaining to forage biomass samples that were used
 
 ## Forage Biomass Data
 
+### finaL_forage_data.csv
+Csv file with EA-IRMS and NIR forage quality measurements: total N, d15N, protein, lignin, acid-detergent fiber (ADF) and neutral detergent fiber (NDF)
+
+### final_good_leg_ndfa.csv
+Nitrogen derived from the atmosphere (NDFA) calculations for _Desmodium_ biomass samples: total N, d15N, beta value (universal constant for _Desmodium_), d15N of reference treatments (maize and Napier), and NDFA.
+
 ## Bulk Soil Mineral Nitrogen Data
+Mineral nitrogen (ammonium + nitrate) values for bulk soil samples. 
+
+### finaL_minN_for_analysis.csv
 
 ## 16S rRNA Amplicon Sequence Data
 
