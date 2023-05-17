@@ -78,6 +78,13 @@ Image file indicating the locations of the three forage trial locations in Rwand
 ### minN_metadata.csv
 Csv file containing metadata pertaining to bulk soils that were used to quantify mineral nitrogen (ammonium + nitrate). Information includes pH, gravimetric water content (gwc), moist sample weight, dry sample weight, forage treatment, location, and sampling time.
 
+### bnf_metadata.csv
+Csv file containing metadata pertaining to forage biomass samples that were used to quantify nutritive quality (ADF, NDF, lignin, protein) and elemental composition (total C, total N, d15N). Information includes sample ID, location, treatment, sampling timepoint, and block. 
+
+## Forage Biomass Data
+
+## Bulk Soil Mineral Nitrogen Data
+
 ## 16S rRNA Amplicon Sequence Data
 
 ### final_shared_rare_16S.rds
