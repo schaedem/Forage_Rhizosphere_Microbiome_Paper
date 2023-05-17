@@ -2,10 +2,10 @@
 This repository contains: 1) amplicon sequence data (16S, ITS2) processed using mothur from forage rhizosphere soil samples, 2) forage biomass data, 3) bulk soil mineral N data, and 4) R scripts that were used to tidy and analyze all datasets.
 
 The goal of this project was to:
-  1. Evaluate the impact of perennial legume intercropping on biological nitrogen fixation rates
-  2. Determine whether a perennial intercropping arrangement altered root-associated microbial communities
-  3. Do intercropping-driven changes to community composition have implications for forage nutrive quality?
 
+    1. Evaluate the impact of perennial legume intercropping on biological nitrogen fixation rates
+    2. Determine whether a perennial intercropping arrangement altered root-associated microbial communities
+    3. Probe the implications of intercropping-driven changes to community composition for forage nutrive quality
 
   The data contained in this repository derives from soil (bulk and rhizosphere) and plant leaf tissue sampling
   from replicated trials in Rwanda (Nyagatare (Karama research station), Nyanza (Rubona research station), Burera (Rwerere Research Station)).
@@ -124,3 +124,5 @@ R data file containing parsed taxonomy key information for ITS2 OTUs. Separate c
 
 ### funguild_all.txt
 FunGuild classification results for all ITS2 OTUs
+
+## Analysis R scripts
