@@ -113,6 +113,8 @@ Linear mixed effects models for all biomass metrics by location
 ### final_minN_for_analysis.csv
 Mineral nitrogen (ammonium + nitrate) values for bulk soil samples. 
 
+## Bulk Soil Mineral Nitrogen Scripts
+
 ## minN_lmers.R
 Linear mixed effects models for soil minN by location
 
